@@ -1,0 +1,17 @@
+C:\Users\facuz\OneDrive\Documentos\DemoDevWinForm\DemoDevWinForm\bin\Debug\net6.0-windows\DemoDevWinForm.exe
+C:\Users\facuz\OneDrive\Documentos\DemoDevWinForm\DemoDevWinForm\bin\Debug\net6.0-windows\DemoDevWinForm.deps.json
+C:\Users\facuz\OneDrive\Documentos\DemoDevWinForm\DemoDevWinForm\bin\Debug\net6.0-windows\DemoDevWinForm.runtimeconfig.json
+C:\Users\facuz\OneDrive\Documentos\DemoDevWinForm\DemoDevWinForm\bin\Debug\net6.0-windows\DemoDevWinForm.dll
+C:\Users\facuz\OneDrive\Documentos\DemoDevWinForm\DemoDevWinForm\bin\Debug\net6.0-windows\DemoDevWinForm.pdb
+C:\Users\facuz\OneDrive\Documentos\DemoDevWinForm\DemoDevWinForm\obj\Debug\net6.0-windows\DemoDevWinForm.csproj.AssemblyReference.cache
+C:\Users\facuz\OneDrive\Documentos\DemoDevWinForm\DemoDevWinForm\obj\Debug\net6.0-windows\DemoDevWinForm.Principal.resources
+C:\Users\facuz\OneDrive\Documentos\DemoDevWinForm\DemoDevWinForm\obj\Debug\net6.0-windows\DemoDevWinForm.csproj.GenerateResource.cache
+C:\Users\facuz\OneDrive\Documentos\DemoDevWinForm\DemoDevWinForm\obj\Debug\net6.0-windows\DemoDevWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facuz\OneDrive\Documentos\DemoDevWinForm\DemoDevWinForm\obj\Debug\net6.0-windows\DemoDevWinForm.AssemblyInfoInputs.cache
+C:\Users\facuz\OneDrive\Documentos\DemoDevWinForm\DemoDevWinForm\obj\Debug\net6.0-windows\DemoDevWinForm.AssemblyInfo.cs
+C:\Users\facuz\OneDrive\Documentos\DemoDevWinForm\DemoDevWinForm\obj\Debug\net6.0-windows\DemoDevWinForm.csproj.CoreCompileInputs.cache
+C:\Users\facuz\OneDrive\Documentos\DemoDevWinForm\DemoDevWinForm\obj\Debug\net6.0-windows\DemoDevWinForm.dll
+C:\Users\facuz\OneDrive\Documentos\DemoDevWinForm\DemoDevWinForm\obj\Debug\net6.0-windows\refint\DemoDevWinForm.dll
+C:\Users\facuz\OneDrive\Documentos\DemoDevWinForm\DemoDevWinForm\obj\Debug\net6.0-windows\DemoDevWinForm.pdb
+C:\Users\facuz\OneDrive\Documentos\DemoDevWinForm\DemoDevWinForm\obj\Debug\net6.0-windows\DemoDevWinForm.genruntimeconfig.cache
+C:\Users\facuz\OneDrive\Documentos\DemoDevWinForm\DemoDevWinForm\obj\Debug\net6.0-windows\ref\DemoDevWinForm.dll

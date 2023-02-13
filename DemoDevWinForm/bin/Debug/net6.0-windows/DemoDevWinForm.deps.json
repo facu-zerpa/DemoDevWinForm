@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DemoDevWinForm/1.0.0": {
+        "runtime": {
+          "DemoDevWinForm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoDevWinForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
